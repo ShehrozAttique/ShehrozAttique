@@ -24,7 +24,8 @@
 <a href="https://wa.me/923014317809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shehroz" height="30" width="40" /></a>
 <a href="mailto:shahrozatiq123@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="shehroz" height="30" width="40" /></a>
 </p>
-
+<a href="https://portfolio-six-ashy-59.vercel.app/" target="_blank"><img align="center" src="https://github.com/ShahrozAtiq/Developer-Portfolio/blob/main/favicon.png" alt="shehroz" height="40" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
